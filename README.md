@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhi83166
 - 👀 I’m interested in AI, ML, Robotics and many more.
-- 🌱 I’m currently learning ROS2, tensorflow 2.
+- 🌱 I’m currently learning science.
 - 💞️ I’m looking to work on projects which can solve real world problems.
 - 📫 How to reach me abhi83166@gmail.com
 
